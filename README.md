@@ -24,3 +24,5 @@ yum update -y && yum install curl -y            ##Centos 系统安装 Curl 方�
         安装后进入提示的网站登陆后选择安装mysql nignx php等环境  
   6、宝塔面板搭建wordpress博客  
       新建一个站点,php版本＞7.0，建好后进入网站根目录，删除index.html，然后远程下载一个wordpress的压缩包，也可自己下载后上传到服务器网站根目录将下载的文件解压到根目录即可访问到我们的wordpress安装界面。但是我们还需要配置我们的mysql数据库。我们选择数据库，新建一个数据库，记住你设置的参数。然后进入wordpress的安装环境。之后即可完成安装，这样你的博客就搭建完成了。  
+   
+   7、docker ：以后有时间写  
